@@ -1,0 +1,6 @@
+echo Этап 5: touch
+touch new.txt docs/created.txt
+ls
+ls docs
+touch absent_folder/file.txt
+ls

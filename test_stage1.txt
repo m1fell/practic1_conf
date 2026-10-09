@@ -1,0 +1,5 @@
+echo Этап 1: REPL
+ls first second
+cd Documents
+echo HOME=$HOME
+unknown_command

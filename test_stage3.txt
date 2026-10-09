@@ -1,0 +1,7 @@
+echo Этап 3: VFS
+ls
+ls docs
+cd docs
+ls
+cd /
+cd does_not_exist

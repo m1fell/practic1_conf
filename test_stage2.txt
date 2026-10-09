@@ -1,0 +1,4 @@
+echo Этап 2: стартовый скрипт
+whoami
+echo Значение HOME: $HOME
+ls

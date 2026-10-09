@@ -1,0 +1,9 @@
+echo Этап 4: основные команды
+whoami
+echo Строка с пробелами
+ls
+tac docs/hello.txt
+tac absent.txt
+cd docs
+ls
+cd /

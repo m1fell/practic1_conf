@@ -1,0 +1,17 @@
+# Демонстрация REPL и всех реализованных команд
+echo Начало тестирования
+whoami
+echo Домашняя директория реальной ОС: $HOME
+ls
+ls docs
+cd docs
+ls
+tac hello.txt
+cd /
+touch new_file.txt
+ls
+tac new_file.txt
+tac missing.txt
+cd missing_directory
+unknown_command
+echo Ошибочные строки выше не должны останавливать скрипт
